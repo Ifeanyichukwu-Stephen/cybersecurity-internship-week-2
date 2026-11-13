@@ -247,9 +247,7 @@ These activities strengthened my understanding of the information-gathering stag
 
 
 
-- WHOIS <p align="center">
-  <img src="Whois img.png" width="700">
-</p>
+- WHOIS
 - WhatWeb command output.
 - Nslookup command output.
 - cURL HTTP response headers.
