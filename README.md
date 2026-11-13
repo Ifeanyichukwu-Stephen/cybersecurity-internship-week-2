@@ -245,9 +245,11 @@ These activities strengthened my understanding of the information-gathering stag
 
 ## 8. Evidence and Screenshots
 
-The following evidence can be added to this repository:
 
-- WHOIS command output.
+
+- WHOIS <p align="center">
+  <img src="Whois img.png" width="700">
+</p>
 - WhatWeb command output.
 - Nslookup command output.
 - cURL HTTP response headers.
@@ -256,22 +258,7 @@ The following evidence can be added to this repository:
 - Zenmap Ports/Hosts results.
 - Zenmap Nmap Output screenshot.
 
-**Suggested evidence directory:**
 
-```text
-evidence/
-├── footprinting/
-│   ├── whois.png
-│   ├── whatweb.png
-│   ├── nslookup.png
-│   ├── curl-headers.png
-│   └── wafw00f.png
-│
-└── zenmap/
-    ├── network-scan.png
-    ├── discovered-hosts.png
-    └── ports-and-services.png
-```
 
 ---
 
